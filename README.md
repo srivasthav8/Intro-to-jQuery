@@ -9,4 +9,4 @@ These files contains details about the basic jQuery :
 6. Collecting Values.
 7. Iterating with each.
 
-Through the above examples one can learn the introduction to jQuery.
+Through the above examples one can learn how to use jQuery.
